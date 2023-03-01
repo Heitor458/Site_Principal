@@ -15,7 +15,7 @@ $(document).ready(function (){
      var options = {
         strings : ['Web Developer', 'Game dev', 'Designer 3D', 'QA'],
         typeSpeed: 90,
-        loop: true
+        loop: false
      };
      var typed = new Typed('.element', options)
 
