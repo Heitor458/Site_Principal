@@ -433,8 +433,7 @@ font-weight: 700;
         opacity: 1;
         visibility: visible;
     }
- .header-area{
+    .header-area{
         display: none;
-        }
     }
 }
