@@ -387,13 +387,13 @@ font-weight: 700;
     .bannar, .about{
         flex-direction: column;
     }
-    .bannar-img img{
+    /* .bannar-img img{
         background-color: #ffbd36;
         padding: 9px;
         border-radius: 50%;
         width: 3050px;
         margin-top: 20%;
-    }
+    } */
     .bannar-contet, .about{
         flex-basis: 100%;
         margin-bottom: 30px;
