@@ -157,7 +157,7 @@ font-weight: 700;
     color: #ffbd36;
     font-size: 40px;
     line-height: 70px;
-    text-transform: capitalize;
+    text-transform: uppercase;
 }
 
 .about-content p{
