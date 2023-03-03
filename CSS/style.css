@@ -398,6 +398,11 @@ font-weight: 700;
         flex-basis: 100%;
         margin-bottom: 30px;
     }
+    .banner-content h5
+        {
+        font-size: 13px;
+        font-weight: 700;
+        }
     .about-skills ul li{
         padding-top: 10px;
     }
